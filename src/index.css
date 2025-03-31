@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.addbook,
+.aboutpage {
+  background-image: url("https://img.freepik.com/free-vector/elegant-soft-brown-watercolor-texture-modern-background-design_1055-19886.jpg?t=st=1742818116~exp=1742821716~hmac=5a2e1f686b0c8977063c0a2637d16ad29ea1fe0c114d6e8896425b613b64df10&w=1060");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
